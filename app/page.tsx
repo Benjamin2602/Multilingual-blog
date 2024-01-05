@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="h-[300px]">
+    <main className="h-[400px]">
       <div>
-        <h1>hello</h1>
+        <h1>Home page is under construction</h1>
       </div>
     </main>
   );

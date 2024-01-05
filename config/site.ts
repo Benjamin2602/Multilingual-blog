@@ -19,7 +19,7 @@ const siteConfig = {
     instagram: "https://www.instagram.com/benjamin._.samuel/",
     linkedin: "https://www.linkedin.com/in/benjamin-samuel-173a00222/",
     github: "https://github.com/Benjamin2602",
-    twitter: "https://twitter.com/Benjamin2602",
+    twitter: "https://twitter.com/Benjamin2602sam",
   },
 };
 
